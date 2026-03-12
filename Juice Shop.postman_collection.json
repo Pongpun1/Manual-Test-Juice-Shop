@@ -1,0 +1,34 @@
+{
+  "info": {
+    "_postman_id": "27372fe0-4885-4822-acaa-e2df58fe69cb",
+    "name": "Juice Shop",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "29129768"
+  },
+  "item": [
+    {
+      "name": "Get Product",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Register",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
